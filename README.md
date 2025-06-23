@@ -1,5 +1,5 @@
 # bomm
-bom management system
+Bom Banagement system
 
 A React-based web application for managing assemblies and parts with the following features:
 
