@@ -21,3 +21,5 @@ Material-UI for styling and components
 REST API integration (fetch)
 
 The application provides a complete solution for managing product structures with intuitive tables and visual hierarchy representation.
+
+![image](https://github.com/user-attachments/assets/5c2620e5-ef44-44ef-99dc-786912c7dd71)
